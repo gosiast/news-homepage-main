@@ -1,12 +1,23 @@
 body {
   font: 100% Helvetica, sans-serif;
-  color: $primarycolor;
 }
 .new-section {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
+.title-main-article {
+  padding: 0;
+}
+
+button {
+  background-color: hsl(5, 85%, 63%);
+  color: white;
+  padding: 5px 25px;
+  margin: 5px;
+  border-color: hsl(5, 85%, 63%);
+}
 footer {
-    text-align: center;
+  text-align: center;
+  margin-top: 15px;
 }
