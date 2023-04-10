@@ -1,5 +1,6 @@
 body {
   font: 100% Helvetica, sans-serif;
+  font-size: 13px;
 }
 .new-section {
   background-color: black;
@@ -10,11 +11,15 @@ body {
   padding: 0;
 }
 
+.summary-main-article {
+  padding: 15px;
+}
+
 button {
   background-color: hsl(5, 85%, 63%);
   color: white;
-  padding: 5px 25px;
-  margin: 5px;
+  padding: 10px 25px;
+  margin: 15px 5px;
   border-color: hsl(5, 85%, 63%);
 }
 footer {
