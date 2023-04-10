@@ -5,6 +5,17 @@ body {
 .new-section {
   background-color: black;
   color: white;
+  padding: 10px;
+  
+}
+
+.new-section h2 {
+  color: hsl(35, 77%, 62%);
+}
+
+.new-section h3 {
+font-size: 18px;
+font-weight: 600;
 }
 
 .title-main-article {
