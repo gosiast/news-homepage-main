@@ -34,6 +34,10 @@ button {
   border-color: hsl(5, 85%, 63%);
 }
 
+.top-three-news {
+  padding: 10px;
+  margin-top: 10px;
+}
 .top-three-news h2 {
 color:hsl(233, 8%, 79%);
 }
