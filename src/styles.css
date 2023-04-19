@@ -38,7 +38,7 @@ button {
   border-color: hsl(5, 85%, 63%);
 }
 
-button:hover {
+.read-more-button:hover {
   background-color: black;
   border-color: black;
 }
