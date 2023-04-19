@@ -6,7 +6,6 @@ body {
   background-color: black;
   color: white;
   padding: 10px;
-  
 }
 
 .new-section h2 {
@@ -14,8 +13,13 @@ body {
 }
 
 .new-section h3 {
-font-size: 18px;
-font-weight: 600;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.new-section p {
+  color: hsl(233, 8%, 79%);
+  opacity: 80%;
 }
 
 .title-main-article {
@@ -39,12 +43,16 @@ button {
   margin-top: 10px;
 }
 .top-three-news h2 {
-color:hsl(233, 8%, 79%);
+  color: hsl(233, 8%, 79%);
 }
 
 .top-three-news h3 {
   font-size: 16px;
   font-weight: 600;
+}
+
+.top-three-news p {
+  color: hsl(233, 8%, 79%);
 }
 footer {
   text-align: center;
