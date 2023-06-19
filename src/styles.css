@@ -1,6 +1,17 @@
 body {
   font: 100% Helvetica, sans-serif;
   font-size: 13px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+/* it doesn't work on hover
+a.nav-link:hover {
+  background-color: hsl(0, 0%, 100%);
+} */
+
+.navbar {
+  margin-left: 50px;
 }
 .new-section {
   background-color: black;
@@ -44,8 +55,8 @@ button {
 }
 
 .top-three-news {
-  padding: 10px;
-  margin-top: 10px;
+  padding: 20px;
+  margin-top: 20px;
 }
 .top-three-news h2 {
   color: hsl(233, 8%, 79%);
@@ -57,7 +68,7 @@ button {
 }
 
 .top-three-news p {
-  color: hsl(233, 8%, 79%);
+  color: hsl(230, 2%, 47%);
 }
 footer {
   text-align: center;
