@@ -1,8 +1,8 @@
 body {
   font: inter;
   font-size: 13px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 60px;
+  margin-right: 0px;
 }
 
 /* it doesn't work on hover
@@ -13,6 +13,11 @@ a.nav-link:hover {
 .navbar {
   margin-left: 50px;
 }
+
+.nav-link .nav-item:hover {
+color: hsl(35, 77%, 62%)
+}
+
 .new-section {
   background-color: black;
   color: white;
@@ -35,7 +40,7 @@ a.nav-link:hover {
 
 .main-article-image {
   max-width: 100%;
-  
+
 }
 .title-main-article {
   padding: 0;
