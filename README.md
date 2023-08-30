@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot of the solution
 
-![](./preview_project_news_homepage.png)
+![](/images/preview_project_news_homepage.png)
 
 
 ### Links
